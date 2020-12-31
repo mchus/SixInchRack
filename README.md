@@ -89,7 +89,7 @@ units              = 2;
 cabinet(depth,units,screw_bottom_front,round_peg,screw_side_front);
 ```
 
-## #Lid
+### Lid
 ```java
 depth = 98;
 units = 2;
